@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "lcd.h": "c",
+        "termios.h": "c",
+        "unistd.h": "c",
+        "stddef.h": "c",
+        "fcntl.h": "c",
+        "header.h": "c",
+        "respberrypi.h": "c",
+        "ctype.h": "c"
+    }
+}
