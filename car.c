@@ -38,7 +38,7 @@ typedef unsigned int uint;
 #pragma endregion
 
 #include "header.h"
-#include "respberrypi.h"
+#include "raspberrypi.h"
 
 // LED
 void ledInit();
